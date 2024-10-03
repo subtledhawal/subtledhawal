@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @subtledhawal
-- 👀 I’m interested in coding and technology
-- 🌱 I’m currently learning DSA
+- 👀 I’m interested in Data Analytics and anything and everything related to data modelling
+- 🌱 Final Year student
 - 📫 To contact: Here's my Linkedin Profile URL: https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BxpckhksITByYgMZAXKkEMw%3D%3D
 
 <!---
