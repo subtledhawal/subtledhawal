@@ -1,6 +1,6 @@
 - Hi, I’m @subtledhawal
 - Final Year Engineering Student
-- Linkedin Profile: https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BxpckhksITByYgMZAXKkEMw%3D%3D
+- Linkedin Profile: https://www.linkedin.com/in/dhawal-patodi-2910a3220/
 
 <!---
 subtledhawal/subtledhawal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
