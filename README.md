@@ -1,5 +1,5 @@
 - Hi, I’m @subtledhawal
-- Final Year Engineering Student
+- Electronic and Computer Engineer
 - Linkedin Profile: https://www.linkedin.com/in/dhawal-patodi-2910a3220/
 
 <!---
