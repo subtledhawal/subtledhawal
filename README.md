@@ -1,4 +1,4 @@
-- Hi, I’m @subtledhawal
+- Hey, I’m Dhawal!
 - Electronic and Computer Engineer
 - Linkedin Profile: https://www.linkedin.com/in/dhawal-patodi-2910a3220/
 
